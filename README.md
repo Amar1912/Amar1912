@@ -61,7 +61,7 @@ If you want to collaborate, connect, or discuss projects — feel free to reach 
 
 - 📧 **Email:** amardhadbale@gmail.com  
 - 🐙 **GitHub:** https://github.com/Amar1912  
-- 💼 **LinkedIn:** linkedin.com/in/amar-dhadbale-719902303  
+- 💼 **LinkedIn:** [linkedin.com/in/amar-dhadbale-719902303 ](https://www.linkedin.com/in/amar-dhadbale-719902303/) 
 
 ---
 
