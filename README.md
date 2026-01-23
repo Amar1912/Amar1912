@@ -21,8 +21,7 @@
 
 ### 📊 Analytics & Programming  
 - Excel (Dashboards, Reports, Advanced Functions)  
-- Python (Pandas, NumPy, Matplotlib)  
-- Data Cleaning & Visualization  
+- Python 
 
 ### 📱 Mobile App Development  
 - Flutter (UI, Widgets, Navigation, Basic App Development)
@@ -38,13 +37,13 @@
 ## 📂 Projects  
 
 ### 💼 Full-Stack & Database Management
-- 🧑‍💼 **Employee Management System** (PHP + SQL)  
+- 🧑‍💼 **Shiv sai cab services web ** (Laravel + SQL)   
 - 🏥 **Hospital Management System** (PHP + SQL)  
 - 💇‍♀️ **Beauty Parlour Management System** (PHP + SQL)  
 - 🗂️ **Other DBMS Projects** (ER → Tables, Normalization, Queries)
 
 ### 🌐 Frontend Projects  
-- 🏋️ **Single Page Gym Website**  
+- 🏋️ **Gym Website**  
 - ☕ **Coffee Landing Page**  
 - 💻 **Multiple Mini Frontend Projects** (forms, landing pages, UI components)  
 - 🌐 Single Page Portfolio Website  
