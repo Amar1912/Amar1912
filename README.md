@@ -1,66 +1,141 @@
-# Hi, I'm Amar 👋
+# Hi there, I'm Amar Dhadbale 👋
 
-## 🚀 About Me  
-- Full-Stack Web Developer (HTML, CSS, JavaScript, PHP, SQL)  
-- Analytics Enthusiast (Excel, Python for Data Analysis)  
-- Flutter Developer (Beginner – building Android apps)  
-- IoT & Embedded Systems Learner  
+### 🚀 Full-Stack Developer | Java Developer | Laravel Developer | Flutter Developer (Beginner)
 
----
+Passionate about building scalable web applications, backend systems, and mobile apps. I enjoy turning ideas into real-world solutions through clean code, modern technologies, and continuous learning.
 
-## 🔧 Skills  
-
-### 🌐 Web Development  
-- HTML, CSS, JavaScript  
-- PHP (Backend Development)  
-- SQL / Database Design  
-- Bootstrap  
-- Responsive UI/UX Design  
-- Form Validation + CRUD Features  
-
-### 📊 Analytics & Programming  
-- Excel (Dashboards, Reports, Advanced Functions)  
-- Python 
-
-### 📱 Mobile App Development  
-- Flutter (UI, Widgets, Navigation, Basic App Development)
-
-### 🔌 IoT & Embedded Systems  
-- Arduino, ESP32  
-- Sensors, Actuators, LCDs, Servo  
-- Breadboard Prototyping  
-- Embedded C Basics  
+🌐 Portfolio: https://amar-d.vercel.app/index.html
 
 ---
 
-## 📂 Projects  
+## 👨‍💻 About Me
 
-### 💼 Full-Stack & Database Management
-- 🧑‍💼 **Shiv sai cab services web ** (Laravel + SQL)   
-- 🏥 **Hospital Management System** (PHP + SQL)  
-- 💇‍♀️ **Beauty Parlour Management System** (PHP + SQL)  
-- 🗂️ **Other DBMS Projects** (ER → Tables, Normalization, Queries)
-
-### 🌐 Frontend Projects  
-- 🏋️ **Gym Website**  
-- ☕ **Coffee Landing Page**  
-- 💻 **Multiple Mini Frontend Projects** (forms, landing pages, UI components)  
-- 🌐 Single Page Portfolio Website  
-
-### 🔧 Other Projects  
-- 🧮 Bootstrap Calculator  
-- 📘 Task Manager  
-- 🏨 Room Booking System  
+* 🎓 BE Electronics & Telecommunication Engineering Student
+* ☕ Java Developer currently learning Spring Boot
+* 💻 Full-Stack Web Developer with Laravel & PHP
+* 📱 Flutter Developer (Beginner)
+* 🚀 Passionate about Software Development, Problem Solving & Open Source
 
 ---
 
-## 📞 Contact Me  
-If you want to collaborate, connect, or discuss projects — feel free to reach out!
+## 🛠️ Tech Stack
 
-- 📧 **Email:** amardhadbale@gmail.com  
-- 🐙 **GitHub:** https://github.com/Amar1912  
-- 💼 **LinkedIn:** [linkedin.com/in/amar-dhadbale-719902303 ](https://www.linkedin.com/in/amar-dhadbale-719902303/) 
+### ☕ Java Development
+
+* Java
+* Object-Oriented Programming (OOP)
+* Collections Framework
+* Exception Handling
+* JDBC
+* Maven
+* Spring Boot (Learning)
+
+### 🌐 Full-Stack Web Development
+
+#### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+
+#### Backend
+
+* PHP
+* Laravel
+* REST APIs
+
+#### Database
+
+* MySQL
+* SQL Query Optimization
+* Database Design & Normalization
+
+### 📱 Mobile App Development
+
+* Flutter
+* Dart
+* Responsive UI Design
+* State Management (Learning)
+* Firebase (Learning)
+
+### 📊 Analytics & Tools
+
+* Excel
+* Python
+* Git & GitHub
+* Postman
+* VS Code
+* IntelliJ IDEA
+
+### 🔌 IoT & Embedded Systems
+
+* Arduino
+* ESP32
+* Embedded C Basics
+* Sensors & Actuators
+* LCD Displays
+* Servo Motors
+* Breadboard Prototyping
 
 ---
 
-⭐ *Thanks for visiting! Check out my repositories and feel free to fork or contribute.*  
+## 🚀 Featured Projects
+
+### 🚖 Shiv Sai Cab Services
+
+Laravel-based cab booking and management platform featuring authentication, booking management, and database integration.
+
+### 🏥 Hospital Management System
+
+PHP & MySQL based system for managing patients, appointments, and records.
+
+### 💇 Beauty Parlour Management System
+
+Complete management solution with customer records, services, and billing functionality.
+
+### 🏨 Room Booking System
+
+Booking and reservation management platform built using Laravel and SQL.
+
+
+### 🌐 Portfolio Website
+
+Personal developer portfolio showcasing projects, skills, and experience.
+
+---
+
+## 🌱 Currently Learning
+
+* Spring Boot
+* REST API Development
+* Flutter Advanced Concepts
+* Cloud Computing
+* Data Structures & Algorithms
+* System Design Fundamentals
+
+---
+
+## 📈 GitHub Goals
+
+* Build impactful Full-Stack Applications
+* Contribute to Open Source Projects
+* Strengthen Java & Spring Boot Development
+* Create Production-Ready Flutter Applications
+* Explore Cloud Technologies
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [amardhadbale@gmail.com](mailto:amardhadbale@gmail.com)
+
+🐙 GitHub: https://github.com/Amar1912
+
+💼 LinkedIn: https://www.linkedin.com/in/amar-dhadbale-719902303/
+
+🌐 Portfolio: https://amar-d.vercel.app/index.html
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories, contribute to projects, or connect with me for collaboration.
