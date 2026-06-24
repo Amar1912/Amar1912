@@ -80,8 +80,6 @@ Personal developer portfolio showcasing projects, skills, and experience.
 
 * Spring Boot
 * REST API Development
-* Flutter Advanced Concepts
-* Cloud Computing
 * Data Structures & Algorithms
 * System Design Fundamentals
 
