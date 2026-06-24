@@ -4,7 +4,7 @@
 
 Passionate about building scalable web applications, backend systems, and mobile apps. I enjoy turning ideas into real-world solutions through clean code, modern technologies, and continuous learning.
 
-🌐 Portfolio: https://amar-d.vercel.app/index.html
+🌐 **Portfolio:** https://amar-d.vercel.app/index.html
 
 ---
 
@@ -20,63 +20,35 @@ Passionate about building scalable web applications, backend systems, and mobile
 
 ## 🛠️ Tech Stack
 
-### ☕ Java Development
+### Languages
 
-* Java
-* Object-Oriented Programming (OOP)
-* Collections Framework
-* Exception Handling
-* JDBC
-* Maven
-* Spring Boot (Learning)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,php,js,dart,python" />
+</p>
 
-### 🌐 Full-Stack Web Development
+### Full-Stack Development
 
-#### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,laravel,spring,mysql" />
+</p>
 
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap
+### Mobile Development
 
-#### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase" />
+</p>
 
-* PHP
-* Laravel
-* REST APIs
+### Tools & Platforms
 
-#### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
+</p>
 
-* MySQL
-* SQL Query Optimization
-* Database Design & Normalization
+### IoT & Embedded
 
-### 📱 Mobile App Development
-
-* Flutter
-* Dart
-* Responsive UI Design
-* State Management (Learning)
-* Firebase (Learning)
-
-### 📊 Analytics & Tools
-
-* Excel
-* Python
-* Git & GitHub
-* Postman
-* VS Code
-* IntelliJ IDEA
-
-### 🔌 IoT & Embedded Systems
-
-* Arduino
-* ESP32
-* Embedded C Basics
-* Sensors & Actuators
-* LCD Displays
-* Servo Motors
-* Breadboard Prototyping
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
 
 ---
 
@@ -98,7 +70,6 @@ Complete management solution with customer records, services, and billing functi
 
 Booking and reservation management platform built using Laravel and SQL.
 
-
 ### 🌐 Portfolio Website
 
 Personal developer portfolio showcasing projects, skills, and experience.
@@ -116,6 +87,23 @@ Personal developer portfolio showcasing projects, skills, and experience.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amar1912&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar1912&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Amar1912&theme=tokyonight" />
+</p>
+
+---
+
 ## 📈 GitHub Goals
 
 * Build impactful Full-Stack Applications
@@ -126,16 +114,26 @@ Personal developer portfolio showcasing projects, skills, and experience.
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-📧 Email: [amardhadbale@gmail.com](mailto:amardhadbale@gmail.com)
+<p>
+<a href="https://amar-d.vercel.app/index.html">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-🐙 GitHub: https://github.com/Amar1912
+<a href="https://github.com/Amar1912">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-💼 LinkedIn: https://www.linkedin.com/in/amar-dhadbale-719902303/
+<a href="https://www.linkedin.com/in/amar-dhadbale-719902303/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-🌐 Portfolio: https://amar-d.vercel.app/index.html
+<a href="mailto:amardhadbale@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories, contribute to projects, or connect with me for collaboration.
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories, contribute to projects, or connect with me for collaboration.**
