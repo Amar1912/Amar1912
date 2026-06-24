@@ -5,7 +5,6 @@
 - Analytics Enthusiast (Excel, Python for Data Analysis)  
 - Flutter Developer (Beginner – building Android apps)  
 - IoT & Embedded Systems Learner  
-- Passionate about building clean UI, scalable backend systems, and real-world IoT solutions  
 
 ---
 
